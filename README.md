@@ -1,4 +1,4 @@
-# Twitter Clone 9 - Add Searchbar To Find Users-Swift 3-IOS-Firebase
+# Twitter Clone 10 - Follow-Users-Firebase-Swift-3-IOS-Firebase
 
 Learn how to create a twitter like following system, where users can follow other users
 
